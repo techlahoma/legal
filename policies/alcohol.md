@@ -24,7 +24,7 @@ Alcohol consumption, and its place in our industry, is a very polarizing topic w
 1. **Risk Management** 
     1. The tenets of the Techlahoma Code of Conduct (CoC) shall be maintained at all times.
     1. Valid insurance and defined policies for alcohol consumption on premises must be presented by any event space leading up to any actual event.
-    1. At this time, only the locations of 36°N in Tulsa and StarSpace46 in Oklahoma City have been designated by Techlahoma as spaces in which alcohol may be served. 
+    1. At this time, the locations of 36°N in Tulsa, StarSpace46 in Oklahoma City, and Project 3810 in Oklahoma City have been designated by Techlahoma as spaces in which alcohol may be served. 
     1. Cash bars are not allowed at any official events, unless specifically approved by the Techlahoma board ahead of time (such as permission for banquets or galas).
     1. "Happy Hour" style, or otherwise offering open access to drinks can only occur if attendance is cut off 24 hours before the event, a mandatory 21+ policy is in effect, and identifications are checked prior to entry. Specific permission by the Techlahoma Board must be obtained before the date of the event. Any event that is not adhering to the 2 drink maximum must be promoted as such. 
 1. **Budgeting**
