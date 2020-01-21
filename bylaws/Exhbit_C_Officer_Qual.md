@@ -1,12 +1,11 @@
 # OFFICER  QUALIFICATIONS 
-AS OF NOVEMBER 14, 2017
 
 ## OVERVIEW  OF QUALIFICATIONS
 
 Techlahoma Foundation strives to attract officers to define the vision and strategy of Techlahoma to “advance Oklahoma’s grassroots technology community”. We want officers with a strong understanding and status in the technology community, and the ability to leverage existing technology connections to form new ones for Oklahoma. We also want active participants and community role models who “lead by example” to set the tone and cadence for Techlahoma activity. It is expected an officer possess strong decision making and social skills as well as domain knowledge in the technology industry. An officer is an an educator, evangelist, teacher, expert as much as they are a decision maker.
 
 As specifically defined in the Officer Qualifications Plan, the minimum requirements are generally described as follows:
-*	Must have previously been a Member and Director, and fulfilled their minimum requirements; and
+* Must be or have previously been a Director, and fulfilled their minimum requirements; and
 *	Must have demonstrated “active participation” in Techlahoma in the year preceding their election; and
 *	Must be nominated by an existing Director, and voted in by the active Board of directors; and
 *	Must make an annual contribution to Techlahoma
@@ -27,15 +26,13 @@ This Plan represents the policy of Techlahoma Foundation (the “Foundation”) 
 
 ### QUALIFICATIONS
  
-**Member.** Each prospective Officer must be, or have been a Director and also must be in “good standing” with Techlahoma. You must have completed your full term limit in this role.
+**Member.** Each prospective Officer must be, or have been a Director and also must be in “good standing” with Techlahoma.
 
 **Volunteering.** Each prospective Officer must fulfill the volunteering requirements of a Director in the preceding
 year.
 
-**Attendance.** Each prospective Officer must have fulfilled both the attendance policy requirements of a Member and Director in the preceding year.
+**Attendance.** Each prospective Officer must have fulfilled their attendance policy requirements in the preceding year.
 
 **Term.** Each prospective Officer must intend to serve for at least a 1 year term.
 
-IN WITNESS WHEREOF, the foregoing Plan is adopted by the founders as of the date set forth hereinabove.
-
-Founders:
+IN WITNESS WHEREOF, the foregoing Plan is adopted by the board as of the date set forth hereinabove.
