@@ -5,10 +5,11 @@
 Techlahoma Foundation strives to attract officers to define the vision and strategy of Techlahoma to “advance Oklahoma’s grassroots technology community”. We want officers with a strong understanding and status in the technology community, and the ability to leverage existing technology connections to form new ones for Oklahoma. We also want active participants and community role models who “lead by example” to set the tone and cadence for Techlahoma activity. It is expected an officer possess strong decision making and social skills as well as domain knowledge in the technology industry. An officer is an an educator, evangelist, teacher, expert as much as they are a decision maker.
 
 As specifically defined in the Officer Qualifications Plan, the minimum requirements are generally described as follows:
-* Must be or have previously been a Director, and fulfilled their minimum requirements; and
 *	Must have demonstrated “active participation” in Techlahoma in the year preceding their election; and
 *	Must be nominated by an existing Director, and voted in by the active Board of directors; and
-*	Must make an annual contribution to Techlahoma
+*	Must make an annual contribution to Techlahoma; and
+*	Must be or have previously been a Director and fulfilled their minimum requirement to fill the president and vice president role
+
 We believe these Officer Qualifications will allow Techlahoma Foundation to sustain our growth and achieve our mission.
 
 
