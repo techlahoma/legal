@@ -39,8 +39,8 @@ This Plan represents the policy of Techlahoma Foundation (the “Foundation”) 
 *	8 live program events, such a user group meetings or conferences
 *	75% of ( 9 of 12 ) Board of Directors meetings per year. Remote is acceptable considering Techlahoma is decentralized. This is done using the designated remote video conference meeting platform determined by Techlahoma.
 
-**Term.** Each prospective Director must intend to serve for at least a 2 year term. While there is not maximum number of terms, each prospective Director must acknowledge that they cannot serve more than 3 consecutive terms.
+**Term.** Each prospective Director must intend to serve for at least a 2 year term. Each prospective Director must acknowledge that they cannot serve more than 3 consecutive terms.
 
-Each year, during elections, a Director will be offered a chance to give up their seat if changing circumstances result in their are incapability of serving the remainder of their term. At which time the seat will be included in the elections. Therefore each Director will need to confirm they with to maintain their seat, regardless of term length every year.
+Each year, during elections, a Director will be offered a chance to give up their seat if changing circumstances result in their are incapability of serving the remainder of their term. At which time the seat will be included in the elections. Therefore each Director will need to confirm they wish to maintain their seat, regardless of term length every year.
 
 IN WITNESS WHEREOF, the foregoing Plan is adopted by the founders as of the date set forth hereinabove.
