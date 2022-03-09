@@ -27,7 +27,7 @@ NOW THEREFORE, the parties have entered into the following Bylaws as follows:
 
 1. 2.1.	General Nature of Corporation. The general nature of this Corporation is not for profit, and as such the Corporation shall not afford pecuniary gain, incidentally or otherwise, to its Members or Directors.
 
-1. 2.2.	Corporate Mission. Advance the grassroots technology of Oklahoma
+1. 2.2.	Corporate Mission. Enrich Oklahoma’s technologists of all backgrounds through education, connection, and opportunity
 
 1. 2.3.	Tax Exempt Purpose. In conjunction with the not for profit nature set forth in these Bylaws, the purpose of the Corporation is to engage in any lawful act or activity for which corporations may be organized under the general corporation law of Oklahoma. This Corporation is organized exclusively for charitable, religious, educational, and scientific purposes, including, for such purposes, the making of distributions to organizations that qualify as exempt organizations under Section 501(c)(3) of the Internal Revenue Code, or the corresponding section of any future federal tax code.
 
