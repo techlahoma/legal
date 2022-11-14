@@ -111,6 +111,12 @@ NOW THEREFORE, the parties have entered into the following Bylaws as follows:
 1. 6.10	Liability of Directors. The Directors of this Corporation shall not be personally liable for its debts, liabilities, or other obligations.
 
 1. 6.11 Executive Director. The Executive Director is hired and annually reviewed by the board. The Executive Director reports to the entire Board of Directors but directly reports to the current President. The Executive Director has day-to-day responsibilities for the organization, including carrying out the organization’s goals and policies through hiring/training additional employees, managing financial aspects of the organization after board approval of the budget, and additional external-facing representation, as needed, of the organization. The Executive Director will attend all board meetings, report on the progress of the organization, answer questions of the board members and carry out the duties described in the job description/growth plan created/maintained each year with the board. The board can designate other duties as necessary. 
+Tasks are including, but not limited to
+ - Coordinating and running Techlahoma/Board-level events such as conferences and workshops including signing contracts for payments
+ - Maintaining a marketing presence through brand development, social media, email, etc.
+ - Utilizing the budget as set forth through the annual approved budget by the board
+ - Speaking with community members on a regular basis in-person and virtually to maintain a proper feedback loop
+ - Coordinate partnerships and initiatives with 3rd party organizations
 
 ## ARTICLE SEVEN
 ### Meetings of the Board of Directors
