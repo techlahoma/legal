@@ -110,6 +110,8 @@ NOW THEREFORE, the parties have entered into the following Bylaws as follows:
 
 1. 6.10	Liability of Directors. The Directors of this Corporation shall not be personally liable for its debts, liabilities, or other obligations.
 
+1. 6.11 Executive Director. The Executive Director is hired and annually reviewed by the board. The Executive Director reports to the entire Board of Directors but directly reports to the current President. The Executive Director has day-to-day responsibilities for the organization, including carrying out the organization’s goals and policies through hiring/training additional employees, managing financial aspects of the organization after board approval of the budget, and additional external-facing representation, as needed, of the organization. The Executive Director will attend all board meetings, report on the progress of the organization, answer questions of the board members and carry out the duties described in the job description/growth plan created/maintained each year with the board. The board can designate other duties as necessary. 
+
 ## ARTICLE SEVEN
 ### Meetings of the Board of Directors
 
