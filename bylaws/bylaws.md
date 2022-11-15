@@ -87,7 +87,7 @@ NOW THEREFORE, the parties have entered into the following Bylaws as follows:
 ## ARTICLE SIX
 ### Directors
 
-1. 6.1	Number. The authorized number of Directors of this Corporation shall be five (5) to fifteen (15) Directors. The number of Directors may be increased or decreased form time to time by amendment to the Bylaws, but no decrease shall have the effect of shortening the Term of any incumbent Director.
+1. 6.1	Number. The authorized number of Directors of this Corporation shall be eleven (11) Directors. The number of Directors may be increased or decreased form time to time by amendment to the Bylaws, but no decrease shall have the effect of shortening the Term of any incumbent Director.
 
 1. 6.2	Qualifications of Directors. Directors must be Members of the Corporation and must meet the Director Qualifications. The Director Qualifications as set forth in Exhibit B attached hereto shall be maintained by the Secretary of the Corporation and may be revised from time to time as directed by the Board of Directors.
 
