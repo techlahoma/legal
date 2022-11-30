@@ -1,7 +1,7 @@
 # BYLAWS OF TECHLAHOMA FOUNDATION
 an Oklahoma nonprofit corporation
 
-THESE BYLAWS OF THE CORPORATION (the “Bylaws”) are entered into on this 14 day of November, 2017, by and among the signatories hereto.
+THESE BYLAWS OF THE CORPORATION (the “Bylaws”) are entered into on this 15 day of November, 2022, by and among the signatories hereto.
 
 ### Explanatory Statement
 
@@ -20,7 +20,7 @@ NOW THEREFORE, the parties have entered into the following Bylaws as follows:
 
 1. 1.4	Principal Office. The principal office of the Corporation shall be located within or without the State of Oklahoma, at such place as the Board of Directors shall from time to time designate. The Corporation may maintain additional offices at such other places as the Board of Directors may designate.
 
-1. 1.5	Registered Agent. The name and address of the Corporation’s resident agent in the State of Oklahoma shall be United States Corporation Agents, Inc., 6440 Avondale Drive, Suite 200, Oklahoma City, Oklahoma 73116. The Corporation shall continuously maintain within the State of Oklahoma a registered agent and office as may be designated by the Board of Directors.
+1. 1.5	Registered Agent. The name and address of the Corporation’s resident agent in the State of Oklahoma shall be United States Corporation Agents, Inc., 36 E Cameron St. Tulsa, OK 74103. The Corporation shall continuously maintain within the State of Oklahoma a registered agent and office as may be designated by the Board of Directors.
  
 ## ARTICLE TWO
 ### Nature; Mission; Purpose
